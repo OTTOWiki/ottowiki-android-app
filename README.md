@@ -1,6 +1,6 @@
-### Wikipedia Android app
+### OTTOWiki Android app
 
-This repository contains the source code for the official [Wikipedia Android app](https://play.google.com/store/apps/details?id=org.wikipedia).
+This repository contains the source code for the OTTOWiki Android App. Based on Wikipedia Android App.
 
 ### Documentation
 
